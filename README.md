@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 Who I Am
-I’m a U.S. Navy veteran currently pursuing a **Master’s degree in Cybersecurity**, transitioning into the cybersecurity field with a robust background in operations, risk management, and problem-solving. My focus are on developing practical skills in network security, threat detection, and identity and access management through hands-on labs and coursework.
+I’m a U.S. Navy veteran currently pursuing a **Master’s degree in Cybersecurity**, transitioning into the cybersecurity field with a robust background in operations, risk management, and problem solving. My focus are on developing practical skills in network security, threat detection, and identity and access management through hands-on labs and coursework.
 
 I learn best by doing analyzing network traffic, exploring system behavior, and understanding how security controls work in real world context.
 
